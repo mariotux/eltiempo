@@ -1,0 +1,17 @@
+#!/usr/bin/env ruby
+require 'yaml'
+require_relative 'lib/application'
+require_relative 'lib/handlers/params_handler'
+require_relative 'lib/managers/api_manager'
+require_relative 'lib/parsers/location_parser'
+require_relative 'lib/parsers/day_parser'
+
+begin
+    config = YAML.load_file('config.yml')
+    api_manager = ApiManager.new(config, LocationParser.new, DayParser.new)
+    params_handler = ParamsHandler.new(ARGV)
+    p Application.new(params_handler, api_manager).call
+rescue => e
+    p e
+end
+

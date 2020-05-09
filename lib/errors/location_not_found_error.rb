@@ -1,0 +1,3 @@
+class LocationNotFoundError < StandardError
+end
+

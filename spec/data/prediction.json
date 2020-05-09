@@ -1,0 +1,1112 @@
+{
+  "status": 0,
+  "location": "Gavà [Provincia de Barcelona;España]",
+  "url": "https://www.tiempo.com/gava.htm",
+  "day": {
+    "1": {
+      "date": "20200509",
+      "name": "Sábado",
+      "month": "",
+      "symbol_value": "3",
+      "symbol_description": "Cielos nubosos",
+      "symbol_value2": "3",
+      "symbol_description2": "Cielos nubosos",
+      "tempmin": "15",
+      "tempmax": "21",
+      "wind": {
+        "speed": "19",
+        "symbol": "11",
+        "symbolB": "51",
+        "gusts": "44"
+      },
+      "rain": "0",
+      "humidity": "86",
+      "pressure": "1012",
+      "snowline": "3500",
+      "uv_index_max": "7",
+      "sun": {
+        "in": "06:39",
+        "mid": "13:47",
+        "out": "20:57"
+      },
+      "moon": {
+        "in": "23:30",
+        "out": "08:12",
+        "lumi": "94.61%",
+        "desc": "Luna Menguante, 94.61% Iluminada",
+        "symbol": "16"
+      },
+      "units": {
+        "temp": "°C",
+        "wind": "km/h",
+        "rain": "mm",
+        "pressure": "mb",
+        "snowline": "m"
+      },
+      "local_time": "00:34",
+      "local_time_offset": 2,
+      "hour": [
+        {
+          "interval": "02:00",
+          "temp": "16",
+          "symbol_value": "2",
+          "symbol_description": "Intervalos nubosos",
+          "symbol_value2": "2",
+          "symbol_description2": "Intervalos nubosos",
+          "wind": {
+            "speed": "7",
+            "dir": "NE",
+            "symbol": "2",
+            "symbolB": "34",
+            "gusts": "20"
+          },
+          "rain": "0",
+          "humidity": "96",
+          "pressure": "1016",
+          "clouds": "44%",
+          "snowline": "3800",
+          "windchill": "16",
+          "uv_index": "0"
+        },
+        {
+          "interval": "05:00",
+          "temp": "16",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "8",
+            "dir": "NE",
+            "symbol": "2",
+            "symbolB": "34",
+            "gusts": "20"
+          },
+          "rain": "0",
+          "humidity": "91",
+          "pressure": "1014",
+          "clouds": "70%",
+          "snowline": "3700",
+          "windchill": "16",
+          "uv_index": "0"
+        },
+        {
+          "interval": "08:00",
+          "temp": "17",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "12",
+            "dir": "N",
+            "symbol": "9",
+            "symbolB": "33",
+            "gusts": "25"
+          },
+          "rain": "0",
+          "humidity": "82",
+          "pressure": "1014",
+          "clouds": "81%",
+          "snowline": "3700",
+          "windchill": "17",
+          "uv_index": "0"
+        },
+        {
+          "interval": "11:00",
+          "temp": "19",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "14",
+            "dir": "NE",
+            "symbol": "10",
+            "symbolB": "42",
+            "gusts": "29"
+          },
+          "rain": "0",
+          "humidity": "80",
+          "pressure": "1013",
+          "clouds": "88%",
+          "snowline": "3700",
+          "windchill": "19",
+          "uv_index": "3"
+        },
+        {
+          "interval": "14:00",
+          "temp": "19",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "19",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "51",
+            "gusts": "42"
+          },
+          "rain": "0",
+          "humidity": "79",
+          "pressure": "1012",
+          "clouds": "70%",
+          "snowline": "3600",
+          "windchill": "19",
+          "uv_index": "7"
+        },
+        {
+          "interval": "17:00",
+          "temp": "20",
+          "symbol_value": "4",
+          "symbol_description": "Cielos cubiertos",
+          "symbol_value2": "4",
+          "symbol_description2": "Cielos cubiertos",
+          "wind": {
+            "speed": "14",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "51",
+            "gusts": "42"
+          },
+          "rain": "0",
+          "humidity": "80",
+          "pressure": "1010",
+          "clouds": "99%",
+          "snowline": "3600",
+          "windchill": "20",
+          "uv_index": "2"
+        },
+        {
+          "interval": "20:00",
+          "temp": "19",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "13",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "43",
+            "gusts": "31"
+          },
+          "rain": "0",
+          "humidity": "84",
+          "pressure": "1009",
+          "clouds": "89%",
+          "snowline": "3600",
+          "windchill": "19",
+          "uv_index": "0"
+        },
+        {
+          "interval": "23:00",
+          "temp": "18",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "11",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "43",
+            "gusts": "29"
+          },
+          "rain": "0",
+          "humidity": "99",
+          "pressure": "1010",
+          "clouds": "87%",
+          "snowline": "3500",
+          "windchill": "18",
+          "uv_index": "0"
+        }
+      ]
+    },
+    "2": {
+      "date": "20200510",
+      "name": "Domingo",
+      "month": "",
+      "symbol_value": "9",
+      "symbol_description": "Cielos nubosos con lluvias moderadas",
+      "symbol_value2": "9",
+      "symbol_description2": "Cielos nubosos con lluvias moderadas",
+      "tempmin": "15",
+      "tempmax": "19",
+      "wind": {
+        "speed": "25",
+        "symbol": "22",
+        "symbolB": "62",
+        "gusts": "61"
+      },
+      "rain": "12",
+      "humidity": "91",
+      "pressure": "1004",
+      "snowline": "2600",
+      "uv_index_max": "5",
+      "sun": {
+        "in": "06:37",
+        "mid": "13:47",
+        "out": "20:58"
+      },
+      "moon": {
+        "in": "--:--",
+        "out": "09:00",
+        "lumi": "88.36%",
+        "desc": "Luna Menguante, 88.36% Iluminada",
+        "symbol": "17"
+      },
+      "units": {
+        "temp": "°C",
+        "wind": "km/h",
+        "rain": "mm",
+        "pressure": "mb",
+        "snowline": "m"
+      },
+      "local_time": "00:34",
+      "local_time_offset": 2,
+      "hour": [
+        {
+          "interval": "02:00",
+          "temp": "17",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "7",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "35",
+            "gusts": "24"
+          },
+          "rain": "0",
+          "humidity": "99",
+          "pressure": "1009",
+          "clouds": "71%",
+          "snowline": "3500",
+          "windchill": "17",
+          "uv_index": "0"
+        },
+        {
+          "interval": "05:00",
+          "temp": "17",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "5",
+            "dir": "E",
+            "symbol": "3",
+            "symbolB": "27",
+            "gusts": "16"
+          },
+          "rain": "0",
+          "humidity": "100",
+          "pressure": "1007",
+          "clouds": "72%",
+          "snowline": "3500",
+          "windchill": "17",
+          "uv_index": "0"
+        },
+        {
+          "interval": "08:00",
+          "temp": "18",
+          "symbol_value": "6",
+          "symbol_description": "Cielos nubosos con lluvias débiles",
+          "symbol_value2": "6",
+          "symbol_description2": "Cielos nubosos con lluvias débiles",
+          "wind": {
+            "speed": "5",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "35",
+            "gusts": "22"
+          },
+          "rain": "0.2",
+          "humidity": "96",
+          "pressure": "1006",
+          "clouds": "97%",
+          "snowline": "3300",
+          "windchill": "18",
+          "uv_index": "0"
+        },
+        {
+          "interval": "11:00",
+          "temp": "18",
+          "symbol_value": "6",
+          "symbol_description": "Cielos nubosos con lluvias débiles",
+          "symbol_value2": "6",
+          "symbol_description2": "Cielos nubosos con lluvias débiles",
+          "wind": {
+            "speed": "14",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "43",
+            "gusts": "31"
+          },
+          "rain": "1.2",
+          "humidity": "91",
+          "pressure": "1005",
+          "clouds": "93%",
+          "snowline": "3000",
+          "windchill": "18",
+          "uv_index": "3"
+        },
+        {
+          "interval": "14:00",
+          "temp": "18",
+          "symbol_value": "6",
+          "symbol_description": "Cielos nubosos con lluvias débiles",
+          "symbol_value2": "6",
+          "symbol_description2": "Cielos nubosos con lluvias débiles",
+          "wind": {
+            "speed": "22",
+            "dir": "SE",
+            "symbol": "20",
+            "symbolB": "60",
+            "gusts": "58"
+          },
+          "rain": "2.3",
+          "humidity": "82",
+          "pressure": "1004",
+          "clouds": "93%",
+          "snowline": "2900",
+          "windchill": "18",
+          "uv_index": "5"
+        },
+        {
+          "interval": "17:00",
+          "temp": "18",
+          "symbol_value": "6",
+          "symbol_description": "Cielos nubosos con lluvias débiles",
+          "symbol_value2": "6",
+          "symbol_description2": "Cielos nubosos con lluvias débiles",
+          "wind": {
+            "speed": "25",
+            "dir": "SW",
+            "symbol": "22",
+            "symbolB": "62",
+            "gusts": "61"
+          },
+          "rain": "3.2",
+          "humidity": "85",
+          "pressure": "1001",
+          "clouds": "85%",
+          "snowline": "2800",
+          "windchill": "18",
+          "uv_index": "2"
+        },
+        {
+          "interval": "20:00",
+          "temp": "17",
+          "symbol_value": "5",
+          "symbol_description": "Intervalos nubosos con lluvias débiles",
+          "symbol_value2": "5",
+          "symbol_description2": "Intervalos nubosos con lluvias débiles",
+          "wind": {
+            "speed": "11",
+            "dir": "S",
+            "symbol": "21",
+            "symbolB": "61",
+            "gusts": "58"
+          },
+          "rain": "2.7",
+          "humidity": "88",
+          "pressure": "1000",
+          "clouds": "17%",
+          "snowline": "2600",
+          "windchill": "17",
+          "uv_index": "0"
+        },
+        {
+          "interval": "23:00",
+          "temp": "16",
+          "symbol_value": "6",
+          "symbol_description": "Cielos nubosos con lluvias débiles",
+          "symbol_value2": "6",
+          "symbol_description2": "Cielos nubosos con lluvias débiles",
+          "wind": {
+            "speed": "20",
+            "dir": "W",
+            "symbol": "15",
+            "symbolB": "55",
+            "gusts": "41"
+          },
+          "rain": "2.3",
+          "humidity": "90",
+          "pressure": "1001",
+          "clouds": "75%",
+          "snowline": "2600",
+          "windchill": "16",
+          "uv_index": "0"
+        }
+      ]
+    },
+    "3": {
+      "date": "20200511",
+      "name": "Lunes",
+      "month": "",
+      "symbol_value": "5",
+      "symbol_description": "Intervalos nubosos con lluvias débiles",
+      "symbol_value2": "5",
+      "symbol_description2": "Intervalos nubosos con lluvias débiles",
+      "tempmin": "15",
+      "tempmax": "24",
+      "wind": {
+        "speed": "27",
+        "symbol": "23",
+        "symbolB": "63",
+        "gusts": "60"
+      },
+      "rain": "0.3",
+      "humidity": "60",
+      "pressure": "1004",
+      "snowline": "2800",
+      "uv_index_max": "8",
+      "sun": {
+        "in": "06:36",
+        "mid": "13:47",
+        "out": "20:59"
+      },
+      "moon": {
+        "in": "00:35",
+        "out": "09:55",
+        "lumi": "80.43%",
+        "desc": "Luna Menguante, 80.43% Iluminada",
+        "symbol": "18"
+      },
+      "units": {
+        "temp": "°C",
+        "wind": "km/h",
+        "rain": "mm",
+        "pressure": "mb",
+        "snowline": "m"
+      },
+      "local_time": "00:34",
+      "local_time_offset": 2,
+      "hour": [
+        {
+          "interval": "02:00",
+          "temp": "16",
+          "symbol_value": "5",
+          "symbol_description": "Intervalos nubosos con lluvias débiles",
+          "symbol_value2": "5",
+          "symbol_description2": "Intervalos nubosos con lluvias débiles",
+          "wind": {
+            "speed": "20",
+            "dir": "W",
+            "symbol": "15",
+            "symbolB": "55",
+            "gusts": "44"
+          },
+          "rain": "0.3",
+          "humidity": "85",
+          "pressure": "1001",
+          "clouds": "36%",
+          "snowline": "2800",
+          "windchill": "16",
+          "uv_index": "0"
+        },
+        {
+          "interval": "05:00",
+          "temp": "15",
+          "symbol_value": "2",
+          "symbol_description": "Intervalos nubosos",
+          "symbol_value2": "2",
+          "symbol_description2": "Intervalos nubosos",
+          "wind": {
+            "speed": "21",
+            "dir": "W",
+            "symbol": "15",
+            "symbolB": "55",
+            "gusts": "46"
+          },
+          "rain": "0",
+          "humidity": "73",
+          "pressure": "1001",
+          "clouds": "33%",
+          "snowline": "2900",
+          "windchill": "15",
+          "uv_index": "0"
+        },
+        {
+          "interval": "08:00",
+          "temp": "16",
+          "symbol_value": "1",
+          "symbol_description": "Cielos despejados",
+          "symbol_value2": "1",
+          "symbol_description2": "Cielos despejados",
+          "wind": {
+            "speed": "18",
+            "dir": "W",
+            "symbol": "15",
+            "symbolB": "55",
+            "gusts": "47"
+          },
+          "rain": "0",
+          "humidity": "74",
+          "pressure": "1003",
+          "clouds": "1%",
+          "snowline": "3000",
+          "windchill": "16",
+          "uv_index": "0"
+        },
+        {
+          "interval": "11:00",
+          "temp": "20",
+          "symbol_value": "1",
+          "symbol_description": "Cielos despejados",
+          "symbol_value2": "1",
+          "symbol_description2": "Cielos despejados",
+          "wind": {
+            "speed": "25",
+            "dir": "W",
+            "symbol": "23",
+            "symbolB": "63",
+            "gusts": "54"
+          },
+          "rain": "0",
+          "humidity": "52",
+          "pressure": "1004",
+          "clouds": "0%",
+          "snowline": "3000",
+          "windchill": "20",
+          "uv_index": "4"
+        },
+        {
+          "interval": "14:00",
+          "temp": "23",
+          "symbol_value": "1",
+          "symbol_description": "Cielos despejados",
+          "symbol_value2": "1",
+          "symbol_description2": "Cielos despejados",
+          "wind": {
+            "speed": "27",
+            "dir": "W",
+            "symbol": "23",
+            "symbolB": "63",
+            "gusts": "59"
+          },
+          "rain": "0",
+          "humidity": "42",
+          "pressure": "1005",
+          "clouds": "4%",
+          "snowline": "2900",
+          "windchill": "25",
+          "uv_index": "8"
+        },
+        {
+          "interval": "17:00",
+          "temp": "23",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "22",
+            "dir": "NW",
+            "symbol": "24",
+            "symbolB": "64",
+            "gusts": "58"
+          },
+          "rain": "0",
+          "humidity": "43",
+          "pressure": "1006",
+          "clouds": "89%",
+          "snowline": "2900",
+          "windchill": "25",
+          "uv_index": "3"
+        },
+        {
+          "interval": "20:00",
+          "temp": "21",
+          "symbol_value": "2",
+          "symbol_description": "Intervalos nubosos",
+          "symbol_value2": "2",
+          "symbol_description2": "Intervalos nubosos",
+          "wind": {
+            "speed": "8",
+            "dir": "W",
+            "symbol": "15",
+            "symbolB": "55",
+            "gusts": "47"
+          },
+          "rain": "0",
+          "humidity": "61",
+          "pressure": "1007",
+          "clouds": "43%",
+          "snowline": "3000",
+          "windchill": "21",
+          "uv_index": "0"
+        },
+        {
+          "interval": "23:00",
+          "temp": "18",
+          "symbol_value": "1",
+          "symbol_description": "Cielos despejados",
+          "symbol_value2": "1",
+          "symbol_description2": "Cielos despejados",
+          "wind": {
+            "speed": "7",
+            "dir": "W",
+            "symbol": "15",
+            "symbolB": "39",
+            "gusts": "28"
+          },
+          "rain": "0",
+          "humidity": "64",
+          "pressure": "1009",
+          "clouds": "0%",
+          "snowline": "3100",
+          "windchill": "18",
+          "uv_index": "0"
+        }
+      ]
+    },
+    "4": {
+      "date": "20200512",
+      "name": "Martes",
+      "month": "",
+      "symbol_value": "6",
+      "symbol_description": "Cielos nubosos con lluvias débiles",
+      "symbol_value2": "6",
+      "symbol_description2": "Cielos nubosos con lluvias débiles",
+      "tempmin": "14",
+      "tempmax": "18",
+      "wind": {
+        "speed": "12",
+        "symbol": "11",
+        "symbolB": "43",
+        "gusts": "35"
+      },
+      "rain": "0.6",
+      "humidity": "87",
+      "pressure": "1012",
+      "snowline": "2600",
+      "uv_index_max": "6",
+      "sun": {
+        "in": "06:35",
+        "mid": "13:47",
+        "out": "21:00"
+      },
+      "moon": {
+        "in": "01:32",
+        "out": "10:54",
+        "lumi": "71.36%",
+        "desc": "Luna Menguante, 71.36% Iluminada",
+        "symbol": "19"
+      },
+      "units": {
+        "temp": "°C",
+        "wind": "km/h",
+        "rain": "mm",
+        "pressure": "mb",
+        "snowline": "m"
+      },
+      "local_time": "00:34",
+      "local_time_offset": 2,
+      "hour": [
+        {
+          "interval": "02:00",
+          "temp": "15",
+          "symbol_value": "2",
+          "symbol_description": "Intervalos nubosos",
+          "symbol_value2": "2",
+          "symbol_description2": "Intervalos nubosos",
+          "wind": {
+            "speed": "6",
+            "dir": "N",
+            "symbol": "9",
+            "symbolB": "33",
+            "gusts": "22"
+          },
+          "rain": "0",
+          "humidity": "76",
+          "pressure": "1010",
+          "clouds": "20%",
+          "snowline": "3400",
+          "windchill": "15",
+          "uv_index": "0"
+        },
+        {
+          "interval": "05:00",
+          "temp": "14",
+          "symbol_value": "2",
+          "symbol_description": "Intervalos nubosos",
+          "symbol_value2": "2",
+          "symbol_description2": "Intervalos nubosos",
+          "wind": {
+            "speed": "8",
+            "dir": "N",
+            "symbol": "1",
+            "symbolB": "25",
+            "gusts": "18"
+          },
+          "rain": "0",
+          "humidity": "89",
+          "pressure": "1011",
+          "clouds": "29%",
+          "snowline": "3500",
+          "windchill": "14",
+          "uv_index": "0"
+        },
+        {
+          "interval": "08:00",
+          "temp": "16",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "12",
+            "dir": "NE",
+            "symbol": "10",
+            "symbolB": "34",
+            "gusts": "24"
+          },
+          "rain": "0",
+          "humidity": "90",
+          "pressure": "1012",
+          "clouds": "91%",
+          "snowline": "3500",
+          "windchill": "16",
+          "uv_index": "0"
+        },
+        {
+          "interval": "11:00",
+          "temp": "17",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "12",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "43",
+            "gusts": "32"
+          },
+          "rain": "0",
+          "humidity": "83",
+          "pressure": "1014",
+          "clouds": "65%",
+          "snowline": "3200",
+          "windchill": "17",
+          "uv_index": "4"
+        },
+        {
+          "interval": "14:00",
+          "temp": "17",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "10",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "43",
+            "gusts": "33"
+          },
+          "rain": "0",
+          "humidity": "87",
+          "pressure": "1014",
+          "clouds": "85%",
+          "snowline": "2900",
+          "windchill": "17",
+          "uv_index": "6"
+        },
+        {
+          "interval": "17:00",
+          "temp": "17",
+          "symbol_value": "3",
+          "symbol_description": "Cielos nubosos",
+          "symbol_value2": "3",
+          "symbol_description2": "Cielos nubosos",
+          "wind": {
+            "speed": "12",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "43",
+            "gusts": "34"
+          },
+          "rain": "0",
+          "humidity": "88",
+          "pressure": "1013",
+          "clouds": "92%",
+          "snowline": "3000",
+          "windchill": "17",
+          "uv_index": "2"
+        },
+        {
+          "interval": "20:00",
+          "temp": "16",
+          "symbol_value": "7",
+          "symbol_description": "Cielos cubiertos con lluvias débiles",
+          "symbol_value2": "7",
+          "symbol_description2": "Cielos cubiertos con lluvias débiles",
+          "wind": {
+            "speed": "8",
+            "dir": "NE",
+            "symbol": "10",
+            "symbolB": "42",
+            "gusts": "35"
+          },
+          "rain": "0.3",
+          "humidity": "88",
+          "pressure": "1012",
+          "clouds": "97%",
+          "snowline": "2700",
+          "windchill": "16",
+          "uv_index": "0"
+        },
+        {
+          "interval": "23:00",
+          "temp": "16",
+          "symbol_value": "6",
+          "symbol_description": "Cielos nubosos con lluvias débiles",
+          "symbol_value2": "6",
+          "symbol_description2": "Cielos nubosos con lluvias débiles",
+          "wind": {
+            "speed": "9",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "43",
+            "gusts": "31"
+          },
+          "rain": "0.3",
+          "humidity": "95",
+          "pressure": "1013",
+          "clouds": "63%",
+          "snowline": "2600",
+          "windchill": "16",
+          "uv_index": "0"
+        }
+      ]
+    },
+    "5": {
+      "date": "20200513",
+      "name": "Miércoles",
+      "month": "",
+      "symbol_value": "2",
+      "symbol_description": "Intervalos nubosos",
+      "symbol_value2": "2",
+      "symbol_description2": "Intervalos nubosos",
+      "tempmin": "13",
+      "tempmax": "20",
+      "wind": {
+        "speed": "11",
+        "symbol": "12",
+        "symbolB": "44",
+        "gusts": "29"
+      },
+      "rain": "0",
+      "humidity": "85",
+      "pressure": "1011",
+      "snowline": "2600",
+      "uv_index_max": "7",
+      "sun": {
+        "in": "06:34",
+        "mid": "13:47",
+        "out": "21:01"
+      },
+      "moon": {
+        "in": "02:21",
+        "out": "11:56",
+        "lumi": "61.68%",
+        "desc": "Luna Menguante, 61.68% Iluminada",
+        "symbol": "20"
+      },
+      "units": {
+        "temp": "°C",
+        "wind": "km/h",
+        "rain": "mm",
+        "pressure": "mb",
+        "snowline": "m"
+      },
+      "local_time": "00:34",
+      "local_time_offset": 2,
+      "hour": [
+        {
+          "interval": "02:00",
+          "temp": "15",
+          "symbol_value": "2",
+          "symbol_description": "Intervalos nubosos",
+          "symbol_value2": "2",
+          "symbol_description2": "Intervalos nubosos",
+          "wind": {
+            "speed": "6",
+            "dir": "NE",
+            "symbol": "10",
+            "symbolB": "34",
+            "gusts": "21"
+          },
+          "rain": "0",
+          "humidity": "97",
+          "pressure": "1013",
+          "clouds": "40%",
+          "snowline": "2600",
+          "windchill": "15",
+          "uv_index": "0"
+        },
+        {
+          "interval": "05:00",
+          "temp": "14",
+          "symbol_value": "2",
+          "symbol_description": "Intervalos nubosos",
+          "symbol_value2": "2",
+          "symbol_description2": "Intervalos nubosos",
+          "wind": {
+            "speed": "9",
+            "dir": "N",
+            "symbol": "9",
+            "symbolB": "33",
+            "gusts": "21"
+          },
+          "rain": "0",
+          "humidity": "93",
+          "pressure": "1011",
+          "clouds": "11%",
+          "snowline": "2800",
+          "windchill": "14",
+          "uv_index": "0"
+        },
+        {
+          "interval": "08:00",
+          "temp": "16",
+          "symbol_value": "2",
+          "symbol_description": "Intervalos nubosos",
+          "symbol_value2": "2",
+          "symbol_description2": "Intervalos nubosos",
+          "wind": {
+            "speed": "6",
+            "dir": "N",
+            "symbol": "1",
+            "symbolB": "25",
+            "gusts": "19"
+          },
+          "rain": "0",
+          "humidity": "84",
+          "pressure": "1011",
+          "clouds": "45%",
+          "snowline": "2700",
+          "windchill": "16",
+          "uv_index": "0"
+        },
+        {
+          "interval": "11:00",
+          "temp": "19",
+          "symbol_value": "2",
+          "symbol_description": "Intervalos nubosos",
+          "symbol_value2": "2",
+          "symbol_description2": "Intervalos nubosos",
+          "wind": {
+            "speed": "6",
+            "dir": "E",
+            "symbol": "11",
+            "symbolB": "35",
+            "gusts": "21"
+          },
+          "rain": "0",
+          "humidity": "78",
+          "pressure": "1012",
+          "clouds": "17%",
+          "snowline": "2800",
+          "windchill": "19",
+          "uv_index": "4"
+        },
+        {
+          "interval": "14:00",
+          "temp": "20",
+          "symbol_value": "2",
+          "symbol_description": "Intervalos nubosos",
+          "symbol_value2": "2",
+          "symbol_description2": "Intervalos nubosos",
+          "wind": {
+            "speed": "11",
+            "dir": "SE",
+            "symbol": "12",
+            "symbolB": "36",
+            "gusts": "28"
+          },
+          "rain": "0",
+          "humidity": "78",
+          "pressure": "1011",
+          "clouds": "19%",
+          "snowline": "2800",
+          "windchill": "20",
+          "uv_index": "7"
+        },
+        {
+          "interval": "17:00",
+          "temp": "19",
+          "symbol_value": "1",
+          "symbol_description": "Cielos despejados",
+          "symbol_value2": "1",
+          "symbol_description2": "Cielos despejados",
+          "wind": {
+            "speed": "10",
+            "dir": "S",
+            "symbol": "13",
+            "symbolB": "45",
+            "gusts": "29"
+          },
+          "rain": "0",
+          "humidity": "77",
+          "pressure": "1010",
+          "clouds": "3%",
+          "snowline": "3100",
+          "windchill": "19",
+          "uv_index": "3"
+        },
+        {
+          "interval": "20:00",
+          "temp": "18",
+          "symbol_value": "1",
+          "symbol_description": "Cielos despejados",
+          "symbol_value2": "1",
+          "symbol_description2": "Cielos despejados",
+          "wind": {
+            "speed": "8",
+            "dir": "SW",
+            "symbol": "14",
+            "symbolB": "38",
+            "gusts": "25"
+          },
+          "rain": "0",
+          "humidity": "88",
+          "pressure": "1010",
+          "clouds": "2%",
+          "snowline": "3200",
+          "windchill": "18",
+          "uv_index": "0"
+        },
+        {
+          "interval": "23:00",
+          "temp": "16",
+          "symbol_value": "1",
+          "symbol_description": "Cielos despejados",
+          "symbol_value2": "1",
+          "symbol_description2": "Cielos despejados",
+          "wind": {
+            "speed": "3",
+            "dir": "NW",
+            "symbol": "8",
+            "symbolB": "32",
+            "gusts": "18"
+          },
+          "rain": "0",
+          "humidity": "100",
+          "pressure": "1012",
+          "clouds": "2%",
+          "snowline": "3500",
+          "windchill": "16",
+          "uv_index": "0"
+        }
+      ]
+    }
+  }
+}

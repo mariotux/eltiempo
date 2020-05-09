@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report>
+    <location city="Listado de localidades - Provincia de Barcelona" num="627" level="3" level_name="Localidad">
+        <data>
+            <name id="1182">Abrera</name>
+            <url>http://api.tiempo.com/index.php?api_lang=es&amp;localidad=1182</url>
+        </data>
+        <data>
+            <name id="79254">Agora Parc</name>
+            <url>http://api.tiempo.com/index.php?api_lang=es&amp;localidad=79254</url>
+        </data>
+        <data>
+            <name id="1183">Aguilar de Segarra</name>
+            <url>http://api.tiempo.com/index.php?api_lang=es&amp;localidad=1183</url>
+        </data>
+    </location>
+</report>

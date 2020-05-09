@@ -1,0 +1,3 @@
+class CalculatorNotFoundError < StandardError
+end
+
